@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-50430a584d0df3edce33fbd2a832c3888778f526.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-586d28d998f61b1c7e6f25470374c4692c94bc2e.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-72d603eca3d5379ed5ff69a0b39481494293f688.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-21323e5a9a5344833adb5d8bb309459d10b830f5.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-428d4c31ca95756c7a9f6e85abbb1b57706d9df6.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-67b53b26c1894ee288e253f409ca5579ce441164.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-67cddfdff1a7e6e5a8ac9c2439df6d8a2d9eac39.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-8de315efc7157923824e221e36aeff6e464ee6c6.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/tools/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4ca837e79c1c9c3202b2084be9203b12288a9542.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-c3e1a7a9ecf9e8687102813f579c2273d24d9d64.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-2837c81b56f91079cda993e8fc1ca51d13c1f952.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-c8580f032fadf297a38578cd1f3d39bab3449075.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9ad423e4945b6a7527e7ce6f2cd32accf42488b7.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-904ba5e1725ee2bc56e17bd90673e478d305f763.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-f6e318795e79f9b89135690dec5e1c6a5c5da0bc.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-6006d4024b8acd4831183d124bac513f0b4335ef.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-3fe5ebf2a22c13e85a2ce5f1337f2204d5057c13.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-34d8989a24c41ed001a69960a055e28c696e6602.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-6f0a2fa3acd65c11d52aeab5600f8a6a72bd8b5c.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-c78c5d29c80ea66b1e1719f8fb39c556379c5c1c.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-d2130f7c31bcc13bf4d6fe9f9928244bf6b5893b.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-ad117d1c9bc201c4ba24fd8772d24e75d7456d16.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-91c14a9d8963bbcde1a7544f375bb741240cfb74.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-756882e06017538aed16b667213d3b4dd1843552.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-804e08a14a8db1866956409f5c3c48ff80281e4f.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-cae22ced283f4081ba5d730f4571cbd9c3775c37.jar" />
+    </item>
+    <item
+        jar="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/x0158990/work/os/pasa/github/map-demo/app/build/intermediates/pre-dexed/debug/classes-4203f53c7d4a4998694a626c0c1b2db13c9cc83c.jar" />
+    </item>
+
+</items>
