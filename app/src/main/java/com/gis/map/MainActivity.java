@@ -15,6 +15,7 @@ import android.widget.Toast;
 public class MainActivity extends FragmentActivity {
     private static final ExampleStartInfo[] data = {
             new ExampleStartInfo(SimpleExampleActivity.class, "Simple"),
+            new ExampleStartInfo(ConfigureExampleActivity.class, "Configuration"),
     };
 
     private boolean available;
