@@ -16,6 +16,7 @@ public class MainActivity extends FragmentActivity {
     private static final ExampleStartInfo[] data = {
             new ExampleStartInfo(SimpleExampleActivity.class, "Simple"),
             new ExampleStartInfo(ConfigureExampleActivity.class, "Configuration"),
+            new ExampleStartInfo(MarkersExampleActivity.class, "Markers"),
     };
 
     private boolean available;

@@ -46,6 +46,7 @@
         </activity>
         <activity android:name=".SimpleExampleActivity"></activity>
         <activity android:name=".ConfigureExampleActivity"></activity>
+        <activity android:name=".MarkersExampleActivity"></activity>
 
     </application>
 
